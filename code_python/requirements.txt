@@ -1,0 +1,6 @@
+pyinstaller>=6.11
+openpyxl>=3.1
+autoflake>=2.3
+autopep8>=2.3
+black>=25.1
+flake8>=7.0
